@@ -1,0 +1,4 @@
+generator.py
+plugin.video.netflix/
+!zip/plugin.video.netflix/
+Thumbs.db
