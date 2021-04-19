@@ -1,4 +1,3 @@
-generator.py
-plugin.video.netflix/
-!zip/plugin.video.netflix/
+service.subtitles.argenteam/
+!zips/service.subtitles.argenteam/
 Thumbs.db
