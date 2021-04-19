@@ -6,4 +6,4 @@ Actually hosting:
 * [service.subtitles.argenteam](https://github.com/estemendoza/service.subtitles.argenteam)
     * [Forked Kodi 19 compatible version](https://github.com/guindous/service.subtitles.argenteam)
 
-Download [repository.guindous-1.0.1.zip](https://github.com/guindous/repository.guindous/raw/master/zips/repository.guindous/repository.guindous-1.0.0.zip) to [install in kodi](https://kodi.wiki/view/Add-on_manager#How_to_install_from_a_ZIP_file).
+Download [repository.guindous-1.0.1.zip](https://github.com/guindous/repository.guindous/raw/master/zips/repository.guindous/repository.guindous-1.0.1.zip) to [install in kodi](https://kodi.wiki/view/Add-on_manager#How_to_install_from_a_ZIP_file).
