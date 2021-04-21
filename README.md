@@ -9,3 +9,5 @@ __Disclaimer__: I'm not a python expert and  most of this work is a Q&D migratio
 Nowaday hosting:
 * [service.subtitles.argenteam](https://github.com/estemendoza/service.subtitles.argenteam)
     * [My Forked Kodi 19 compatible version](https://github.com/guindous/service.subtitles.argenteam)
+
+Thanks to drinfernoo for automatic generation repo script available at https://github.com/drinfernoo/repository.example
