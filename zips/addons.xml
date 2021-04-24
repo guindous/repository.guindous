@@ -2,11 +2,10 @@
 <addons>
 <addon id="service.subtitles.argenteam"
        name="Argenteam.net"
-       version="0.9.5.1"
+       version="0.9.5.2"
        provider-name="estemendoza">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="script.module.kodi-six" />
   </requires>
   <extension point="xbmc.subtitle.module"
              library="service.py" />
